@@ -1,0 +1,31 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "ipaymu",
+    "license": "MIT",
+    "category": "payments",
+    "description": {
+        "name": "iPaymu Direct Payment",
+        "tagline": "Payment Gateway Terlengkap",
+        "long": "Payment Gateway Terlengkap & Terbaik Sistem Pembayaran Agregator.",
+        "features": [
+            "Direct Payment"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https:\/\/www.ipaymu.com\/",
+        "learn_more": "https:\/\/blog.ipaymu.com",
+        "email": "support@ipaymu.com",
+        "support_url": "https:\/\/my.ipaymu.com",
+        "docs_url": "https:\/\/documenter.getpostman.com\/view\/7508947\/SWLfanD1?version=latest"
+    },
+    "authors": [
+        {
+            "name": "iPaymu",
+            "homepage": "https:\/\/www.ipaymu.com\/"
+        }
+    ]
+}
