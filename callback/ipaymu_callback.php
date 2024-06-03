@@ -73,7 +73,7 @@ $success = false;
 
 if (isset($cek['res']['Status'])) {
 	if ($cek['res']['Status'] == 200) {
-		if ($cek['res']['Success']) {
+		if ($cek['res']['Data']['PaidStatus'] == 'paid') {
 			$success = true;
 		}
 	}
